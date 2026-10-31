@@ -10,8 +10,8 @@ export const hospital = {
   tagline: 'See the world clearly',
   phone: '+91 00000 00000',            // ⚠ REPLACE - main reception number
   emergency: '+91 00000 00000',        // ⚠ REPLACE - 24x7 emergency number
-  whatsapp: '910000000000',            // ⚠ REPLACE - WhatsApp number: country code + number, no + or spaces
-  email: 'info@eliteeyehospital.in',   // ⚠ REPLACE
+  whatsapp: '919287654567',            // ⚠ REPLACE - WhatsApp number: country code + number, no + or spaces
+  email: 'info@eliteeye.in',   // ⚠ REPLACE
   addressLines: ['Elite Eye Hospital', 'Street / Building name', 'Town, District', 'Kerala - PIN'], // ⚠ REPLACE
   // ⚠ REPLACE - what you would type into Google Maps to find the hospital,
   // e.g. "Elite Eye Hospital, MG Road, Thrissur". The more exact, the better.
